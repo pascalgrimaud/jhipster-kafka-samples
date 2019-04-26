@@ -1,0 +1,1 @@
+# jhipster-kafka-samples
