@@ -62,7 +62,7 @@
                         <font-awesome-icon icon="tasks" />
                         <span v-text="$t('global.menu.admin.logs')">Logs</span>
                     </b-dropdown-item>
-                    <b-dropdown-item v-if="swaggerEnabled"  to="/admin/docs">
+                    <b-dropdown-item  to="/admin/docs">
                         <font-awesome-icon icon="book" />
                         <span v-text="$t('global.menu.admin.apidocs')">API</span>
                     </b-dropdown-item>
