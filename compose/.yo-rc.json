@@ -1,0 +1,12 @@
+{
+  "generator-jhipster": {
+    "appsFolders": [
+      "HipsReader",
+      "HipsWriter"
+    ],
+    "directoryPath": "../",
+    "monitoring": "no",
+    "serviceDiscoveryType": false,
+    "jwtSecretKey": "YTY1YWJmYWMyMDU0OTA1NmYxMDg1ZTJhNDA5MzI1MDUxOWVjZTMzZjdhNjEzMGZjYzkwZTg5NjgyMGI3ODA2MzkzYWJlZTg5YmQyMDQ4ZmQ4NmE3NDIyYmEzNmZjZTJkY2FiOA=="
+  }
+}

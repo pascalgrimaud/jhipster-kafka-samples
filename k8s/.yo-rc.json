@@ -1,0 +1,18 @@
+{
+  "generator-jhipster": {
+    "appsFolders": [
+      "HipsReader",
+      "HipsWriter"
+    ],
+    "directoryPath": "../",
+    "serviceDiscoveryType": false,
+    "jwtSecretKey": "MjZmZGQzNDBkYzM5MWI5MmIzNmUyNmU3MmVkNGIzNzRiMDdiOTE4ZmVhMTdhOWRjNzYyZDgzNDg1MjM5YmRjNWM2NmM4OGM0MmI2NTg2ZDllNTY0MDRkMzE1MTdlN2RjYmU3OA==",
+    "dockerRepositoryName": "pascalgrimaud",
+    "dockerPushCommand": "docker push",
+    "kubernetesNamespace": "default",
+    "kubernetesServiceType": "LoadBalancer",
+    "ingressDomain": "",
+    "monitoring": "no",
+    "istio": false
+  }
+}
