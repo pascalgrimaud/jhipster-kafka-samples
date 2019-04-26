@@ -37,7 +37,7 @@ spec:
           image: pascalgrimaud/hipswriter
           env:
             - name: SPRING_PROFILES_ACTIVE
-              value: prod
+              value: prod,swagger
             - name: JHIPSTER_SECURITY_AUTHENTICATION_JWT_BASE64_SECRET
               valueFrom:
                 secretKeyRef:
